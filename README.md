@@ -60,7 +60,7 @@ Clone the Repository
 sh
 Copy
 Edit
-git clone https://github.com/YOUR_GITHUB_USERNAME/ecommerce-project.git
+git clone https://github.com/yashviswami/ecommerce-project.git
 Open index.html in a browser.
 To Test the Cart
 Add items from the home page.
